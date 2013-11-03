@@ -1,0 +1,18 @@
+*jocktree.txt* Make NetRw more like NerdTree
+
+Author:  Wikitopian <http://www.github.com/wikitopian/>
+License: GPLv2
+
+This plugin is only available if 'compatible' is not set.
+
+INTRODUCTION                                    *jocktree*
+
+A collection of configuration changes which make netrw more like NerdTree
+
+ABOUT                                           *jocktree-about*
+
+Grab the latest version or report a bug on GitHub:
+
+http://github.com/wikitopian/jocktree
+
+ vim:tw=78:et:ft=help:norl:
