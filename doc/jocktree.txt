@@ -11,6 +11,9 @@ A collection of configuration changes which make netrw more like NerdTree
 
 ABOUT                                           *jocktree-about*
 
+Borrowed from:
+http://modal.us/blog/2013/07/27/back-to-vim-with-nerdtree-nope-netrw/
+
 Grab the latest version or report a bug on GitHub:
 
 http://github.com/wikitopian/jocktree

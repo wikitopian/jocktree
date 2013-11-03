@@ -3,10 +3,13 @@ JockTree
 
 Make NetRw more like NerdTree
 
-Project Author
+Project Authors
 ---------------
 
 [@wikitopian](https://github.com/wikitopian)
+
+Borrowed from: [Back to Vim...with NerdTree? Nope, netrw]
+(http://modal.us/blog/2013/07/27/back-to-vim-with-nerdtree-nope-netrw/)
 
 Donations
 ---------
